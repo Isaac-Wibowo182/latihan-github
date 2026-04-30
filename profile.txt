@@ -1,0 +1,4 @@
+Nama: Isaac
+Kelas: LL01
+Hobi: Main Game
+Skill: Git dasar
